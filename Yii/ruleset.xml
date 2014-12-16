@@ -13,7 +13,7 @@
         <rule ref="Generic.PHP.DisallowShortOpenTag"/>
 	<rule ref="Generic.NamingConventions.ConstructorName"/>
 	<rule ref="Generic.NamingConventions.UpperCaseConstantName"/>
-        <rule ref="Generic.WhiteSpace.DisallowSpaceIndent"/>
+        <!-- <rule ref="Generic.WhiteSpace.DisallowSpaceIndent"/> -->
 
         <!-- Include PEAR sniffs -->
 	<rule ref="PEAR.ControlStructures.ControlSignature"/>
