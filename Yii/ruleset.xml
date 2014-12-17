@@ -27,7 +27,7 @@
 	<rule ref="Squiz.Classes.ValidClassName"/>
 		
 	<!-- Include Zend sniffs -->
-        <rule ref="Zend.NamingConventions.ValidVariableName"/>
+        <!-- <rule ref="Zend.NamingConventions.ValidVariableName"/> -->
 
 	<!-- Change messages -->
 	<rule ref="Squiz.Classes.ValidClassName.NotCamelCaps">
